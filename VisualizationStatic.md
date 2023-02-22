@@ -15,13 +15,13 @@ If you think that a package is missing from this list, please let us know throug
 
 ## Table of contents
 
--   [Design systems](#design)
--   [Grouping of plots](#grouping)
--   [Themes to styling displays](#theming)
--   [Add-ons to lattice](#lattice)
--   [Add-ons to ggplot2](#ggplot2)
--   [Miscellaneous](#miscellaneous)
--   [Graphics resources and advice web sites](#advice)
+- [Design systems](#design)
+- [Grouping of plots](#grouping)
+- [Themes to styling displays](#theming)
+- [Add-ons to lattice](#lattice)
+- [Add-ons to ggplot2](#ggplot2)
+- [Miscellaneous](#miscellaneous)
+- [Graphics resources and advice web sites](#advice)
 
 ## [Design systems]{#design}
 
