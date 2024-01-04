@@ -1,10 +1,10 @@
 ---
-name: VisualizationStatic
+name: StaticVisualizations
 topic: Static Graphics
 maintainer: Dianne Cook, Sherry Zhang
 email: dicook@monash.edu
 version: 2023-02-23
-source: https://github.com/cran-task-views/VisualizationStatic/
+source: https://github.com/cran-task-views/StaticVisualizations/
 ---
 
 One of the strengths of R is the wealth of data plotting packages. This CRAN Task View maintains a list of static graphics packages, and links to web resources on plotting data.
